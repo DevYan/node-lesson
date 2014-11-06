@@ -1,0 +1,23 @@
+{
+  "name": "node-lesson",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DevYan/node-lesson.git"
+  },
+  "author": "zhangyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevYan/node-lesson/issues"
+  },
+  "homepage": "https://github.com/DevYan/node-lesson",
+  "dependencies": {
+    "express": "^4.10.1",
+    "utility": "^1.2.0"
+  }
+}
